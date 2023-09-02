@@ -7,5 +7,5 @@ Contributor
 
 [pearl55](https://solved.ac/en/profile/pearl55):
 
-[kwakhj0205](): 
+[kwakhj0205](https://solved.ac/en/profile/pearl55): 
 
