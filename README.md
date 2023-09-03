@@ -31,6 +31,12 @@ kwakhj0205
 
 
 Pearl
-1. [solved.ac](https://solved.ac/) 에서 Class 5, 6 클리어
+1. [solved.ac](https://solved.ac/) 에서 Class 5, 6 달성
 2. Codeforces Rating 1400+ in 2023
 3. Codeforces Problem Set 에서 1000~1400 사이의 레이팅 문제들 꾸준히 업솔빙
+4. 백준 대회 출제자 기준 A 만족하기
+   기준 A (대회 문제 출제, 대회 내부 검수자)
+    - BOJ 1000문제 이상 해결
+    - Codeforces 레이팅 1600 이상
+    - Atcoder 레이팅 1200 이상
+    - ICPC 리저널 본선 30등 이상
