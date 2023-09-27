@@ -1,25 +1,21 @@
-import sys
-input = sys.stdin.readline
-INF = sys.maxsize
-from itertools import permutations
+M=int(input())
+S=[]
 
-M = int(input())
-S = [list(input()) for _ in range(3)]
-ans = INF
+for i in range(3):
+    S.append(input()*3)
+Ans=[]
 
-for n in range(10):
-	n = str(n)
-	for order in permutations(range(3)):
-		t = 0
-		for Si in order:
-			if not n in S[Si]:
-				break
-			while S[Si][t%M] != n:
-				t += 1
-			t += 1
-		else:
-			ans = min(ans, t-1)
+import itertools
+for s in range(10):
+    s=str(s)
+    if s in S[0] and s in S[1] and s in S[2]:
+        for i,j,k in itertools.permutations([0,1,2],3):
+            a=S[i].index(s)
+            a+=1+S[j][a+1:].index(s)
+            a+=1+S[k][a+1:].index(s)
+            Ans.append(a)
 
-if ans == INF:
-	ans = -1
-print(ans)
+if len(Ans):
+    print(min(Ans))
+else:
+    print(-1)
