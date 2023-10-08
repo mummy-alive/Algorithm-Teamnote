@@ -1,19 +1,15 @@
 # Algorithm-Teamnote
 Algorithm Teamnote from Ewha Women's University 
 
-
-# Contributors
+### Contributor
+[mummyee](https://www.acmicpc.net/user/mummyee): Hi I'm mummyee and I'm just a noob in algorithm. My goal is to RULE the world with PS :)
 
 [Pearl](https://github.com/Pearl-K)
 
+[kwakhj0205](https://solved.ac/en/profile/pearl55): 
 
-mummyee
-
-
-kwakhj0205
-
-
-
+### Study Logs
+[Meeting Note](https://docs.google.com/document/d/1Q-Zz0uJ4NEXHxO02jcbcSceX1TaJd6xTGMGjcJnHlaY/edit?usp=sharing)
 
 # SUAPC 2023 SUMMER feedback
 
